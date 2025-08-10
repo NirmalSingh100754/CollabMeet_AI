@@ -1,4 +1,4 @@
-# Pro-Vivo AIML Project
+# Full Stack + NLP Project
 
 This project is a web-based chat application with an integrated meeting scheduler. It uses a React frontend and a Django backend. The application allows users to chat in groups and schedule Google Meet meetings based on natural language processing of the chat messages.
 
